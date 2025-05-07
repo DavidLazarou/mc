@@ -1,1 +1,23 @@
+# Virtual environment
 .venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# PyCharm project settings
+.idea/
+
+# VSCode settings
+.vscode/
+
+# Logs or results (optional)
+*.log
+*.csv
+/results/
