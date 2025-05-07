@@ -1,6 +1,6 @@
 # Option Pricing Simulation Project
 
-This project estimates European and binary option prices using the expected value of discounted payoff under the risk-neutral measure. The stock price is simulated using:
+This project estimates European Call and binary option prices using the expected value of discounted payoff under the risk-neutral measure. The stock price is simulated using:
 
 - Euler-Maruyama Scheme
 - Milstein Scheme
